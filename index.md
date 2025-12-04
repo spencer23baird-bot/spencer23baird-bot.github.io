@@ -1,9 +1,8 @@
 <style>
 body {
-  background-image: url('IMG_8007.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-image: url('IMG_8007.jpg) !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }
 </style>
 
