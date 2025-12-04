@@ -1,3 +1,13 @@
+<style>
+body {
+  background-image: url('yourimage.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+
+
 **Welcome to Spencer's Machine Learning for Physical Sciences Final Project!**
 
 **Boise Home Price Prediction Using Common Real Estate Features**
@@ -9,3 +19,4 @@ Here is a [link to my Google Colab Notebook](https://colab.research.google.com/d
 
 
 Here is a [link to my dataset on Kaggle](https://www.kaggle.com/datasets/dipam7/student-grade-prediction/data).
+
