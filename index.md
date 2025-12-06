@@ -11,7 +11,7 @@ body {
 
 **Boise Home Price Prediction Using Common Real Estate Features**
 
-Here is a [link to my report](assets/Spencer_baird_AOS_C111_Report.pdf).
+Here is a [link to my report](assets/1_AOS_C111_Report.pdf).
 
 
 Here is a [link to my Google Colab Notebook](https://colab.research.google.com/drive/1jt-66np_H3PIB4Vf-9oMzvF-JCAq0LOr?usp=sharing).
